@@ -1,8 +1,7 @@
 # BeamProfiler![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  
-> Devoted by Danile Zhu
-> Detection of Noisy Laser Spot Based on Multi-scale Neighborhood Search(2024 The Visual Computer)
-A multi-scale neighborhood search method for the analysis of laser beam images.
-
+> Devoted by Danile Zhu  
+> Detection of Noisy Laser Spot Based on Multi-scale Neighborhood Search(2024 The Visual Computer)  
+A multi-scale neighborhood search method for the analysis of laser beam images.  
 # Detecting Method
 by Daniel Zhu  
 A quick and efficient method for calculating beam sizes from a single monochrome image using the ISO 11146 variance method. The algorithm has been refined to be less sensitive to background offset and noise.

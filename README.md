@@ -1,4 +1,5 @@
-# BeamProfiler
+# BeamProfiler[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]  
+> A curated list of awesome READMEs
 A multi-scale neighborhood search method for the analysis of laser beam images.
 
 # Detecting Method

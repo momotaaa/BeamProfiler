@@ -1,5 +1,6 @@
-# BeamProfiler[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]  
-> A curated list of awesome READMEs
+# BeamProfiler![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  
+> Devoted by Danile Zhu
+> Detection of Noisy Laser Spot Based on Multi-scale Neighborhood Search(2024 The Visual Computer)
 A multi-scale neighborhood search method for the analysis of laser beam images.
 
 # Detecting Method

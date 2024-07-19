@@ -1,5 +1,5 @@
-# laserbeamdetect
-An multi-scale neighborhood search method for analysis of the laser beam images
+# BeamProfiler
+An multi-scale neighborhood search method for analysis of the laser beam images.
 
 # Detecting Method
 by Danile Zhu  

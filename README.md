@@ -7,4 +7,4 @@ The ISO 11146 method for laser beam under natural backlight (with intensity equa
 Our method for laser beam detection:  
 ![Image](https://github.com/momotaaa/BeamProfiler/blob/main/Our_result.png)  
 We fit the laser beam center and size perfectly even in the presence of high noise intensity and rotation.  
-The code will be available soon after the paper is published.
+The code will be relesased soon after the paper is accepted.
